@@ -1,12 +1,12 @@
-# MuSite v.2.5.x - Última versão;
+# MuSite v.2.5.x.1 - Compatible con Sql2008
 
-* Criado por Leandro Daldegam
-* Desenvolvido em PHP 5.2;
-* Banco de dados: Microsoft SQL Server;
-* Código fonte original e completo da MuSite v2.5.x.
+* Creada por Leandro Daldegam
+* Desarrollada en PHP 5.2;
+* Base de datos: Microsoft SQL Server;
+* Código fuente original, completo y modificado de MuSite v2.5.x.
 * O uso destes arquivos são de total responsabilidade do cliente.
 
-## Descrição do sistema
+## Descrião do sistema
 
 * Sistema de templates
 * Settings.php (Praticamente todo o site é regulado por essa página)
